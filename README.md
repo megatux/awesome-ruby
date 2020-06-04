@@ -716,6 +716,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Implementations/Compilers
 
+* [Artichoke](https://www.artichokeruby.org) - A Ruby implementation made with Rust. Supports compilation to WebAssembly.
 * [JRuby](https://github.com/jruby/jruby) - A Java implementation of the Ruby language.
 * [MRuby](https://github.com/mruby/mruby) - Lightweight Ruby. Can be linked and embedded in your application.
 * [Opal](https://github.com/opal/opal) - Ruby to Javascript compiler.
